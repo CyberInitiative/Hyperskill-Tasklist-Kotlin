@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: src/tasklist/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/TasklistTest.kt
+    visible: false
+    learner_created: false
+  - name: src/tasklist/TaskManager.kt
+    visible: true
+    learner_created: true
+  - name: src/tasklist/Task.kt
+    visible: true
+    learner_created: true
+  - name: src/tasklist/TimeAndDataValidator.kt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/18597#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 31 Jul 2024 13:06:13 UTC"
+record: 4
